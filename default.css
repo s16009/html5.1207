@@ -1,0 +1,98 @@
+/* html{
+	font-size: 32px
+}
+
+h1 {
+	font-size: 2rem
+}
+
+span{
+	font-size: 0.5rem
+}
+
+div {
+	width:100px;
+	height:50px;
+}
+#box1{
+	background: rgb(255, 100, 100);
+}
+#box2{
+	background: rgba(255, 100, 100
+	.2);
+}
+#box3{
+	background: hsla(210, 100%, 50%,	
+	.7);
+}
+#box4{
+	background: hsla(210, 100%, 40%,	
+		.7);
+}
+body { background: skyblue; }
+img{
+	border: 7px solid blue;
+	opacity: 0.3
+}
+*/
+
+
+/*a[href^="http"] {color: orange;}*/
+
+/*a[href$=".com"] {color: orange;}*/
+
+/*a[href*=".co.jp"] {color: orange;}*/
+
+/*li:last-child*/
+/*li:nth-child(3)*/
+/*li:nth-child(odd)*/
+/*li:nth-child(even)*/
+/*li:nth-child(3n+1)*/
+/*li:nth-last-child(4)*/
+/*li:only-child
+{
+	background: violet;
+}
+*/
+/*p:first-of-type*/
+/*p:last-of-type*/
+/*p:nth-of-type(3)*/
+/*p:nth-last-of-type(4)*/
+/*h2:only-of-type
+{
+	background: violet;
+	}
+	*/
+
+	/*li:not(.target)*/
+	/*li:empty*/
+	/*input[type="text"]:enabled*/
+	/*input[type="text"]:disabled*/
+/*input[type="checkbox"]:cheked + label
+{
+	background: violet
+	}*/
+
+/*div {
+	width: 200px;
+	height: 200px;
+	background: skyblue;
+	/*border-radius: 30px / 15px;*/
+	/*border-bottom-right-radius: 30px;*/
+	/*border-radius:10px 20px 30px;*/
+	border-radius: 50%;
+	}*/
+
+	body { margin: 0;}
+
+	header {
+		width: 100%;
+		height: 130%
+		background: url('cafe.jpg')
+		no-repeat skyblue;
+		/*background-size: 50%;*/
+		/*background-size: 50% 100%;*/
+		/*background-size: cover;*/
+		background-size: contain;
+		background-position: 50% 50%;
+	}
